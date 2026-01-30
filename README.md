@@ -13,3 +13,5 @@ Insights and recommendations are provided in the following key areas:
 - **Keyword Coverage & Ranking Depth:** Analysis of how many keywords each bank ranks for and their relative positioning in search results.
 - **Search Demand Analysis:** Identification of the highest-volume banking keywords driving consumer interest.
 - **SEO Visibility vs Revenue:** Exploratory assessment of the relationship between search visibility and reported bank revenue.
+
+An interactive Power BI dashboard used to explore SEO visibility, keyword rankings, and search performance across selected Nigerian consumer banks can be found here [link].
