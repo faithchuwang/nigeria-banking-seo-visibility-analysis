@@ -69,4 +69,5 @@ The data model follows a **one-to-many relationship**, where:
 
 The analysis shows that SEO visibility in Nigerian consumer banking is highly concentrated, with a small number of banks consistently dominating organic search results while several others have limited or inconsistent visibility. Consumer search demand is heavily skewed toward branded digital banking queries, particularly internet banking and transfer-related terms, indicating that search behavior is largely navigational rather than exploratory. Additionally, SEO visibility does not scale directly with revenue, suggesting that targeted SEO strategy and keyword focus can create competitive advantages independent of bank size.
 
-Visualization: Snapshot of the Power BI dashboard highlighting keyword coverage, total visibility score by bank, and SEO visibility versus revenue.
+<img width="1198" height="673" alt="Screenshot 2026-01-30 at 20 52 23" src="https://github.com/user-attachments/assets/d877f2e4-c607-484e-b5ef-7b184ef7c924" />
+
