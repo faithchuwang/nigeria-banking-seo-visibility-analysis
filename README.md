@@ -16,12 +16,6 @@ Insights and recommendations are provided in the following key areas:
 
 An interactive Power BI dashboard used to explore SEO visibility, keyword rankings, and search performance across selected Nigerian consumer banks can be found here [link].
 
-Got it — this is a **GitHub README–style “Data Structure & Initial Checks” section**, short and factual, adapted **exactly to your project** (Power BI + SEO, not a company SQL database).
-
-Here is the **clean, correct version** you should use 👇
-
----
-
 ## **Data Structure & Initial Checks**
 
 The project dataset is structured into **two main tables**, designed to support keyword-level SEO analysis and bank-level comparison. The combined dataset represents **50 consumer banking keywords** analyzed across **10 Nigerian consumer banks**.
