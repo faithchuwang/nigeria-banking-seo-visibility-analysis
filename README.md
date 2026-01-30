@@ -11,5 +11,5 @@ Insights and recommendations are provided in the following key areas:
 
 - **SEO Visibility Performance**: Evaluation of total visibility scores and ranking strength across banks to identify market leaders and laggards.
 - **Keyword Coverage & Ranking Depth:** Analysis of how many keywords each bank ranks for and their relative positioning in search results.
-- **Search Demand Analysis:**Identification of the highest-volume banking keywords driving consumer interest.
+- **Search Demand Analysis:** Identification of the highest-volume banking keywords driving consumer interest.
 - **SEO Visibility vs Revenue:** Exploratory assessment of the relationship between search visibility and reported bank revenue.
