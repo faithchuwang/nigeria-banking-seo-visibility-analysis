@@ -81,7 +81,8 @@ The analysis shows that SEO visibility in Nigerian consumer banking is highly co
 - Lower-ranked keywords show a sharp drop-off in volume (≤0.08M), highlighting a long-tail distribution where only a few keywords drive the majority of search traffic.
 
 
-Visualization: Top 10 Keywords by Search Volume
+<img width="1033" height="414" alt="image" src="https://github.com/user-attachments/assets/34f12ab5-7e5e-430f-a7c2-b7546a5871db" />
+
 
 ### Keyword Coverage by Bank:
 
@@ -101,7 +102,8 @@ Visualization: Top 10 Keywords by Search Volume
 - Polaris Bank’s visibility score of 0.5 confirms minimal SEO presence within this keyword set.
 
 
-Visualization: Total Visibility Score by Bank
+<img width="914" height="462" alt="image" src="https://github.com/user-attachments/assets/498e36a3-eb7f-42cc-a7c5-cb7e93936815" />
+
 
 ### Relationship Between SEO Visibility and Revenue:
 
@@ -111,4 +113,5 @@ Visualization: Total Visibility Score by Bank
 - Lower-visibility banks (Sterling, Ecobank, Polaris) cluster at the lower end of the revenue axis, highlighting potential missed opportunities in search-driven customer acquisition.
 
 
-Visualization: SEO Visibility vs Revenue (Scatter Plot)
+<img width="1033" height="464" alt="image" src="https://github.com/user-attachments/assets/9ac25254-93d4-4a23-85ae-91a866e43888" />
+
