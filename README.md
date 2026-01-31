@@ -73,7 +73,7 @@ The analysis shows that SEO visibility in Nigerian consumer banking is highly co
 
 ## Insights Deep Dive
 
-#### Search Demand Concentration & High-Volume Keywords:
+### Search Demand Concentration & High-Volume Keywords:
 
 - Search demand is heavily concentrated around branded online banking queries, with “UBA internet banking” recording the highest search volume at ~1.35M searches, significantly outperforming all other keywords.
 - The second highest keyword, “Zenith Bank internet banking”, records ~740K searches, indicating that online banking access remains a dominant consumer search behavior.
@@ -81,34 +81,23 @@ The analysis shows that SEO visibility in Nigerian consumer banking is highly co
 - Lower-ranked keywords show a sharp drop-off in volume (≤0.08M), highlighting a long-tail distribution where only a few keywords drive the majority of search traffic.
 
 
-#### Visualization: Top 10 Keywords by Search Volume
+Visualization: Top 10 Keywords by Search Volume
 
 Keyword Coverage by Bank
-Access Bank and First Bank lead keyword coverage, each ranking for 29 out of 50 tracked keywords, indicating broader SEO footprint compared to peers.
+- Access Bank and First Bank lead keyword coverage, each ranking for 29 out of 50 tracked keywords, indicating broader SEO footprint compared to peers.
+- Stanbic Bank follows closely with 24 ranked keywords, positioning it as a strong mid-tier competitor in organic visibility.
+- GTBank and UBA rank for 18 and 17 keywords respectively, suggesting moderate coverage but room for expansion.
+- Polaris Bank ranks for only 2 keywords, reflecting extremely limited search visibility within the selected keyword set.
+
+<img width="914" height="414" alt="image" src="https://github.com/user-attachments/assets/8ba2c634-60c6-402c-acfd-b3e8969f9163" />
 
 
-Stanbic Bank follows closely with 24 ranked keywords, positioning it as a strong mid-tier competitor in organic visibility.
+### SEO Visibility Performance by Bank:
 
-
-GTBank and UBA rank for 18 and 17 keywords respectively, suggesting moderate coverage but room for expansion.
-
-
-Polaris Bank ranks for only 2 keywords, reflecting extremely limited search visibility within the selected keyword set.
-
-
-Visualization: Keywords Ranked by Bank
-
-SEO Visibility Performance by Bank
-First Bank holds the highest total visibility score (15.1), narrowly ahead of UBA (14.7), indicating strong overall ranking positions across tracked keywords.
-
-
-Stanbic Bank (12.8) and Access Bank (12.2) form a competitive middle tier with comparable visibility performance.
-
-
-GTBank records a visibility score of 10.9, lower than expected given brand strength, suggesting underperformance in organic rankings.
-
-
-Polaris Bank’s visibility score of 0.5 confirms minimal SEO presence within this keyword set.
+- First Bank holds the highest total visibility score (15.1), narrowly ahead of UBA (14.7), indicating strong overall ranking positions across tracked keywords.
+- Stanbic Bank (12.8) and Access Bank (12.2) form a competitive middle tier with comparable visibility performance.
+- GTBank records a visibility score of 10.9, lower than expected given brand strength, suggesting underperformance in organic rankings.
+- Polaris Bank’s visibility score of 0.5 confirms minimal SEO presence within this keyword set.
 
 
 Visualization: Total Visibility Score by Bank
