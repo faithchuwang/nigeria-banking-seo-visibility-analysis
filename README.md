@@ -83,7 +83,8 @@ The analysis shows that SEO visibility in Nigerian consumer banking is highly co
 
 Visualization: Top 10 Keywords by Search Volume
 
-Keyword Coverage by Bank
+### Keyword Coverage by Bank:
+
 - Access Bank and First Bank lead keyword coverage, each ranking for 29 out of 50 tracked keywords, indicating broader SEO footprint compared to peers.
 - Stanbic Bank follows closely with 24 ranked keywords, positioning it as a strong mid-tier competitor in organic visibility.
 - GTBank and UBA rank for 18 and 17 keywords respectively, suggesting moderate coverage but room for expansion.
@@ -102,17 +103,12 @@ Keyword Coverage by Bank
 
 Visualization: Total Visibility Score by Bank
 
-Relationship Between SEO Visibility and Revenue
-Banks with higher visibility scores generally align with higher reported revenues, suggesting a positive relationship between organic search visibility and financial scale.
+### Relationship Between SEO Visibility and Revenue:
 
-
-First Bank combines the highest visibility score (15.1) with strong revenue (~₦1.4T), reinforcing its leadership position.
-
-
-Access Bank and UBA show high revenue figures (~₦2.6T and ~₦2.1T respectively) alongside solid visibility scores, indicating effective digital presence supporting business scale.
-
-
-Lower-visibility banks (Sterling, Ecobank, Polaris) cluster at the lower end of the revenue axis, highlighting potential missed opportunities in search-driven customer acquisition.
+- Banks with higher visibility scores generally align with higher reported revenues, suggesting a positive relationship between organic search visibility and financial scale.
+- First Bank combines the highest visibility score (15.1) with strong revenue (~₦1.4T), reinforcing its leadership position.
+- Access Bank and UBA show high revenue figures (~₦2.6T and ~₦2.1T respectively) alongside solid visibility scores, indicating effective digital presence supporting business scale.
+- Lower-visibility banks (Sterling, Ecobank, Polaris) cluster at the lower end of the revenue axis, highlighting potential missed opportunities in search-driven customer acquisition.
 
 
 Visualization: SEO Visibility vs Revenue (Scatter Plot)
